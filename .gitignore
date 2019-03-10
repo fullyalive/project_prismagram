@@ -77,3 +77,4 @@ typings/
 
 # Others
 yarn.lock
+.DS_Store
