@@ -79,3 +79,4 @@ typings/
 yarn.lock
 .DS_Store
 generated
+prisma.yml
