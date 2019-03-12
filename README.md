@@ -10,7 +10,7 @@ Express, Prisma, React, React Native를 이용해 인스타그램 클론 코딩
 - Request Secret - [[1]](https://github.com/fullyalive/project_prismagram/commit/d4446044d0348ed28f40f7501ae1bac2d0dd9091)
 - Confirm Secret - [[1]](https://github.com/fullyalive/project_prismagram/commit/15e4297c97493888f8d55f920aacc7f119667bb9)
 - Passport JWT Login - [[1]](https://github.com/fullyalive/project_prismagram/commit/abe24851fd5584a3e57d396e1e849023d222d784) | [[2]](https://github.com/fullyalive/project_prismagram/commit/ecc5b084d3f1cd127ded89daf0d27e0d37298c12)
-- Like / Unlike a photo
+- Like / Unlike a photo - [[1]](https://github.com/fullyalive/project_prismagram/commit/b7d03f229c3cd38bf6d81e2693af3620e508fe4a)
 - Comment on a photo
 - Search by user
 - Search by location
