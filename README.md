@@ -13,9 +13,9 @@ Express, Prisma, React, React Native를 이용해 인스타그램 클론 코딩
 - Like / Unlike a photo - [[1]](https://github.com/fullyalive/project_prismagram/commit/b7d03f229c3cd38bf6d81e2693af3620e508fe4a)
 - Comment on a photo - [[1]](https://github.com/fullyalive/project_prismagram/commit/ec6872ee712d5818c6b5bef4c7fb3c21aa693b3f)
 - Search Users by username, firstname, lastname - [[1]](https://github.com/fullyalive/project_prismagram/commit/1262b46fa6e840b622fc0da0aa5db7f62aaee023)
-- Search Posts by location, caption
-- See user profile
+- Search Posts by location, caption - [[1]](https://github.com/fullyalive/project_prismagram/commit/6bb8ab6a0c5f39bea5e497f8aa1cd556f6282310)
 - Follow / Unfollow User
+- See user profile
 - See the full photo
 - Edit my profile
 - Upload a photo
