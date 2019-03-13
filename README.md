@@ -12,8 +12,8 @@ Express, Prisma, React, React Native를 이용해 인스타그램 클론 코딩
 - Passport JWT Login - [[1]](https://github.com/fullyalive/project_prismagram/commit/abe24851fd5584a3e57d396e1e849023d222d784) | [[2]](https://github.com/fullyalive/project_prismagram/commit/ecc5b084d3f1cd127ded89daf0d27e0d37298c12)
 - Like / Unlike a photo - [[1]](https://github.com/fullyalive/project_prismagram/commit/b7d03f229c3cd38bf6d81e2693af3620e508fe4a)
 - Comment on a photo - [[1]](https://github.com/fullyalive/project_prismagram/commit/ec6872ee712d5818c6b5bef4c7fb3c21aa693b3f)
-- Search by user
-- Search by location
+- Search Users by username, firstname, lastname - [[1]](https://github.com/fullyalive/project_prismagram/commit/1262b46fa6e840b622fc0da0aa5db7f62aaee023)
+- Search Posts by location, caption
 - See user profile
 - Follow / Unfollow User
 - See the full photo
