@@ -22,3 +22,7 @@ Express, Prisma, React, React Native를 이용해 인스타그램 클론 코딩
 - Upload a photo
 - Edit the photo (Delete)
 - See the feed
+- see All Chat Rooms
+- See Chat Room
+- Send private Message
+- Receive Message (Realtime)
