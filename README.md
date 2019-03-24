@@ -23,6 +23,6 @@ Express, Prisma, React, React Native를 이용해 인스타그램 클론 코딩
 - Edit the photo (Delete) - [[1]](https://github.com/fullyalive/project_prismagram/commit/f416750db5435608e6f4f79c610c5bf91f1e4301)
 - See the feed - [[1]](https://github.com/fullyalive/project_prismagram/commit/0c0ac2d07b1af4a1e8127b6b8e8958054d250749)
 - see All Chat Rooms -[[1]](https://github.com/fullyalive/project_prismagram/commit/1e71b67a7751fa0399203439cb24c1d501c5cd3d)
-- See Chat Room
-- Send private Message
-- Receive Message (Realtime)
+- See Chat Room - [[1]](https://github.com/fullyalive/project_prismagram/commit/57eed61fc1fcf6f840d95d874b7d4849f5b47f8c)
+- Send private Message - [[1]](https://github.com/fullyalive/project_prismagram/commit/67a621a500ead695ce149632436d6ce2ecd94392)
+- Receive Message (Realtime) - [[1]](https://github.com/fullyalive/project_prismagram/commit/716d96479469e9dd308340e4535b3d460fe2751c)
